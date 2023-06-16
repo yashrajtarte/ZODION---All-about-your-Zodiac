@@ -1,6 +1,6 @@
 # ZODION - All About Your Zodiac
 
-![Zodiac Signs](zodiac.jpg)
+![image](https://github.com/yashrajtarte/ZODION---All-about-your-Zodiac/assets/91187090/7791e7c3-6b03-42c3-848a-93b49c502bf6)
 
 ZODION is a front-end project that provides information about zodiac signs, including their general traits and characteristics. This web application aims to help users explore and learn more about their zodiac signs, enabling them to gain insights into their personalities and better understand themselves and others around them.
 
